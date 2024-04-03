@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: api-dolphin-xml-fiscal
+  file_path: Dockerfile
+  description: Testes
+spec:
+  lifecycle: production
+  owner: platform multcloud
+  type: service
